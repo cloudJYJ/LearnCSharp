@@ -15,12 +15,16 @@ namespace DataTypes
                 WriteLine("[ 2 ] 정수 리터럴");
                 WriteLine("[ 3 ] 오버플로우");
                 WriteLine("[ 4 ] 부동 소수점 형식");
-                WriteLine("[ 5 ] Decimal 형식");
-                WriteLine("[ 6 ] Char 형식");
-                WriteLine("[ 7 ] String 형식");
+                WriteLine("[ 5 ] 10진수 형식");
+                WriteLine("[ 6 ] 문자 형식");
+                WriteLine("[ 7 ] 문자열 형식");
                 WriteLine("[ 8 ] 논리 형식");
-                WriteLine("[ 9 ] Object 형식");
+                WriteLine("[ 9 ] 오브젝트 형식");
                 WriteLine("[10 ] 박싱과 언박싱");
+                WriteLine("[11 ] 정수 형식 변환");
+                WriteLine("[12 ] 부동 소수점 형식 변환");
+                WriteLine("[13 ] 부호 있는 정수와 부호 없는 정수 사이 형식 변환");
+                WriteLine("[14 ] 부동 소수점 형식과 정수 형식 사이 형식 변환");
                 choice = int.Parse(ReadLine());
                 if (choice == 1) { IntegralTypes Integer = new IntegralTypes(); }
                 if (choice == 2) { SignedUnsigned Sign = new SignedUnsigned(); }
@@ -32,7 +36,12 @@ namespace DataTypes
                 if (choice == 8) { Bool Bool = new Bool(); }
                 if (choice == 9) { Object Object = new Object(); }
                 if (choice == 10) { BoxingUnboxing Box = new BoxingUnboxing(); }
-                else { WriteLine("목록외의 입력으로 종료됨"); }
+                if (choice == 11) { IntegralConversion IntConversion = new IntegralConversion(); }
+                if (choice == 12) { FloatConversion FloatConversion = new FloatConversion(); }
+                if (choice == 13) { SignedUnsignedConversion SignConversion = new SignedUnsignedConversion(); }
+                if (choice == 14) { FloatToIntegral FloatToIntegral = new FloatToIntegral(); }
+                if (choice == 15) { StringNumberConversion StringToNumber = new StringNumberConversion(); }
+                else { WriteLine("목록외의 입력으로 종료함"); }
             }
             catch(Exception ex)
             {
@@ -82,7 +91,7 @@ namespace DataTypes
             uint d = 0x1234_abcd;   // 16진수 리터럴
             WriteLine($"d={d}");
         }
-    }
+    }             // 1. 정수 형식
     class SignedUnsigned
     {
         public SignedUnsigned()
@@ -93,7 +102,7 @@ namespace DataTypes
             WriteLine(a);
             WriteLine(b);
         }
-    }
+    }            // 2. 정수 리터럴
     class OverFlow
     {
         public OverFlow()
@@ -106,7 +115,7 @@ namespace DataTypes
 
             WriteLine(a);
         }
-    }
+    }                  // 3. 오버플로우
     class FloatingPoint
     {
         public FloatingPoint()
@@ -117,7 +126,7 @@ namespace DataTypes
             double b = 3.1415_9265_3589_7932_3846f;
             WriteLine(b);
         }
-    }
+    }             // 4. 부동 소수점 형식
     class Decimal
     {
         public Decimal()
@@ -130,7 +139,7 @@ namespace DataTypes
             WriteLine(b);
             WriteLine(c);
         }
-    }
+    }                   // 5. 10진수 형식
     class Char
     {
         public Char()
@@ -148,7 +157,7 @@ namespace DataTypes
             Write(e);
             WriteLine();
         }
-    }
+    }                      // 6. 문자 형식
     class String
     {
         public String()
@@ -159,7 +168,7 @@ namespace DataTypes
             WriteLine(a);
             WriteLine(b);
         }
-    }
+    }                    // 7. 문자열 형식
     class Bool
     {
         public Bool()
@@ -170,7 +179,7 @@ namespace DataTypes
             WriteLine(a);
             WriteLine(b);
         }
-    }
+    }                      // 8. 논리 형식
     class Object
     {
         public Object()
@@ -185,7 +194,7 @@ namespace DataTypes
             WriteLine(c);
             WriteLine(d);
         }
-    }
+    }                    // 9. Object 형식
     class BoxingUnboxing
     {
         public BoxingUnboxing()
@@ -206,5 +215,94 @@ namespace DataTypes
             WriteLine(z);
 
         }
-    }
+    }            // 10. 박싱과 언박싱
+    class IntegralConversion
+    {
+        public IntegralConversion()
+        {
+            sbyte a = 127;
+            WriteLine(a);
+
+            int b = (int)a;
+            WriteLine(b);
+
+            int x = 128; // sbyte의 최대값 127보다 1 큰 수
+            WriteLine(x);
+
+            sbyte y = (sbyte)x; // 여기서 오버플로우 발생
+            WriteLine(y);
+        }
+    }        // 11. 정수 형식 변환
+    class FloatConversion
+    {
+        public FloatConversion()
+        {
+            float a = 69.6875f;
+            WriteLine("a : {0}", a);
+
+            double b = (double)a;
+            WriteLine("b : {0}", b);
+
+            WriteLine("69.6875 == b : {0}", 69.6875 == b);
+
+            float x = 0.1f;
+            WriteLine("x : {0}", x);
+
+            double y = (double)x;
+            WriteLine("y : {0}", y);
+
+            WriteLine("0.1 == y : {0}", 0.1 == y);
+        }
+    }           // 12. 부동 소수점 형식 변환
+    class SignedUnsignedConversion
+    {
+        public SignedUnsignedConversion()
+        {
+            int a = 500;
+            WriteLine(a);
+
+            uint b = (uint)a;
+            WriteLine(b);
+
+            int x = -30;
+            WriteLine(x);
+
+            uint y = (uint)x; // 언더플로우 발생
+            WriteLine(y);
+        }
+    }  // 13. 부호 있는 정수와 부호 없는 정수 사이 형식 변환
+    class FloatToIntegral
+    {
+        public FloatToIntegral()
+        {
+            float a = 0.9f;
+            int b = (int)a;
+            WriteLine(b);
+
+            float c = 1.1f;
+            int d = (int)c;
+            WriteLine(d);
+        }
+    }           // 14. 부동 소수점 형식과 정수 형식 사이 형식 변환
+    class StringNumberConversion
+    {
+        public StringNumberConversion()
+        {
+            int a = 123;
+            string b = a.ToString();
+            WriteLine(b);
+
+            float c = 3.14f;
+            string d = c.ToString();
+            WriteLine(d);
+
+            string e = "123456";
+            int f = Convert.ToInt32(e);
+            WriteLine(f);
+
+            string g = "1.2345";
+            float h = float.Parse(g);
+            WriteLine(h);
+        }
+    }    // 15. 숫자형식과 문자형식 사이 형식 변환
 }
