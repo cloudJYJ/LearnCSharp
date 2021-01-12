@@ -6,7 +6,7 @@ namespace DataTypes
 {
     class DataTypes
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // 프로그램의 시작 지점
         {
             int choice = 0;
             try
@@ -25,6 +25,7 @@ namespace DataTypes
                 WriteLine("[12 ] 부동 소수점 형식 변환");
                 WriteLine("[13 ] 부호 있는 정수와 부호 없는 정수 사이 형식 변환");
                 WriteLine("[14 ] 부동 소수점 형식과 정수 형식 사이 형식 변환");
+                WriteLine("[15 ] 숫자 형식과 문자 형식 사이 형식 변환");
                 choice = int.Parse(ReadLine());
                 if (choice == 1) { IntegralTypes Integer = new IntegralTypes(); }
                 if (choice == 2) { SignedUnsigned Sign = new SignedUnsigned(); }
@@ -41,9 +42,9 @@ namespace DataTypes
                 if (choice == 13) { SignedUnsignedConversion SignConversion = new SignedUnsignedConversion(); }
                 if (choice == 14) { FloatToIntegral FloatToIntegral = new FloatToIntegral(); }
                 if (choice == 15) { StringNumberConversion StringToNumber = new StringNumberConversion(); }
-                else { WriteLine("목록외의 입력으로 종료함"); }
+                else { WriteLine("목록외의 입력으로 종료됨"); }
             }
-            catch(Exception ex)
+            catch
             {
                 WriteLine("목록외의 입력으로 종료됨");
             }
