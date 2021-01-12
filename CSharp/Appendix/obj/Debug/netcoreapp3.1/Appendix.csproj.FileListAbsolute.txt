@@ -1,0 +1,13 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\bin\Debug\netcoreapp3.1\Appendix.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\bin\Debug\netcoreapp3.1\Appendix.deps.json
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\bin\Debug\netcoreapp3.1\Appendix.runtimeconfig.json
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\bin\Debug\netcoreapp3.1\Appendix.runtimeconfig.dev.json
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\bin\Debug\netcoreapp3.1\Appendix.dll
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\bin\Debug\netcoreapp3.1\Appendix.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\obj\Debug\netcoreapp3.1\Appendix.AssemblyInfoInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\obj\Debug\netcoreapp3.1\Appendix.AssemblyInfo.cs
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\obj\Debug\netcoreapp3.1\Appendix.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\obj\Debug\netcoreapp3.1\Appendix.dll
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\obj\Debug\netcoreapp3.1\Appendix.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\obj\Debug\netcoreapp3.1\Appendix.genruntimeconfig.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Appendix\obj\Debug\netcoreapp3.1\Appendix.csprojAssemblyReference.cache

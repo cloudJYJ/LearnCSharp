@@ -6,49 +6,39 @@ namespace DataTypes
 {
     class DataTypes
     {
-        static void Main(string[] args) // 프로그램의 시작 지점
+        static void Main() // 프로그램의 시작 지점
         {
-            int choice = 0;
-            try
-            {
-                WriteLine("[ 1 ] 정수 형식");
-                WriteLine("[ 2 ] 정수 리터럴");
-                WriteLine("[ 3 ] 오버플로우");
-                WriteLine("[ 4 ] 부동 소수점 형식");
-                WriteLine("[ 5 ] 10진수 형식");
-                WriteLine("[ 6 ] 문자 형식");
-                WriteLine("[ 7 ] 문자열 형식");
-                WriteLine("[ 8 ] 논리 형식");
-                WriteLine("[ 9 ] 오브젝트 형식");
-                WriteLine("[10 ] 박싱과 언박싱");
-                WriteLine("[11 ] 정수 형식 변환");
-                WriteLine("[12 ] 부동 소수점 형식 변환");
-                WriteLine("[13 ] 부호 있는 정수와 부호 없는 정수 사이 형식 변환");
-                WriteLine("[14 ] 부동 소수점 형식과 정수 형식 사이 형식 변환");
-                WriteLine("[15 ] 숫자 형식과 문자 형식 사이 형식 변환");
-                choice = int.Parse(ReadLine());
-                if (choice == 1) { IntegralTypes Integer = new IntegralTypes(); }
-                if (choice == 2) { SignedUnsigned Sign = new SignedUnsigned(); }
-                if (choice == 3) { OverFlow Over = new OverFlow(); }
-                if (choice == 4) { FloatingPoint Float = new FloatingPoint(); }
-                if (choice == 5) { Decimal Decimal = new Decimal(); }
-                if (choice == 6) { Char Char = new Char(); }
-                if (choice == 7) { String String = new String(); }
-                if (choice == 8) { Bool Bool = new Bool(); }
-                if (choice == 9) { Object Object = new Object(); }
-                if (choice == 10) { BoxingUnboxing Box = new BoxingUnboxing(); }
-                if (choice == 11) { IntegralConversion IntConversion = new IntegralConversion(); }
-                if (choice == 12) { FloatConversion FloatConversion = new FloatConversion(); }
-                if (choice == 13) { SignedUnsignedConversion SignConversion = new SignedUnsignedConversion(); }
-                if (choice == 14) { FloatToIntegral FloatToIntegral = new FloatToIntegral(); }
-                if (choice == 15) { StringNumberConversion StringToNumber = new StringNumberConversion(); }
-                else { WriteLine("목록외의 입력으로 종료됨"); }
-            }
-            catch
-            {
-                WriteLine("목록외의 입력으로 종료됨");
-            }
-
+            WriteLine("[ 1 ] 정수 형식");
+            WriteLine("[ 2 ] 정수 리터럴");
+            WriteLine("[ 3 ] 오버플로우");
+            WriteLine("[ 4 ] 부동 소수점 형식");
+            WriteLine("[ 5 ] 10진수 형식");
+            WriteLine("[ 6 ] 문자 형식");
+            WriteLine("[ 7 ] 문자열 형식");
+            WriteLine("[ 8 ] 논리 형식");
+            WriteLine("[ 9 ] 오브젝트 형식");
+            WriteLine("[10 ] 박싱과 언박싱");
+            WriteLine("[11 ] 정수 형식 변환");
+            WriteLine("[12 ] 부동 소수점 형식 변환");
+            WriteLine("[13 ] 부호 있는 정수와 부호 없는 정수 사이 형식 변환");
+            WriteLine("[14 ] 부동 소수점 형식과 정수 형식 사이 형식 변환");
+            WriteLine("[15 ] 숫자 형식과 문자 형식 사이 형식 변환");
+            string choice = ReadLine();
+            if (choice == "1") { IntegralTypes Integer = new IntegralTypes(); }
+            if (choice == "2") { SignedUnsigned Sign = new SignedUnsigned(); }
+            if (choice == "3") { OverFlow Over = new OverFlow(); }
+            if (choice == "4") { FloatingPoint Float = new FloatingPoint(); }
+            if (choice == "5") { Decimal Decimal = new Decimal(); }
+            if (choice == "6") { Char Char = new Char(); }
+            if (choice == "7") { String String = new String(); }
+            if (choice == "8") { Bool Bool = new Bool(); }
+            if (choice == "9") { Object Object = new Object(); }
+            if (choice == "10") { BoxingUnboxing Box = new BoxingUnboxing(); }
+            if (choice == "11") { IntegralConversion IntConversion = new IntegralConversion(); }
+            if (choice == "12") { FloatConversion FloatConversion = new FloatConversion(); }
+            if (choice == "13") { SignedUnsignedConversion SignConversion = new SignedUnsignedConversion(); }
+            if (choice == "14") { FloatToIntegral FloatToIntegral = new FloatToIntegral(); }
+            if (choice == "15") { StringNumberConversion StringToNumber = new StringNumberConversion(); }
         }
     }
 

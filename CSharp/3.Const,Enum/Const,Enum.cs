@@ -5,32 +5,23 @@ namespace _3.Const_Enum
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int choice = 0;
-            try
-            {
-                WriteLine("[ 1 ] 상수 형식");
-                WriteLine("[ 2 ] 열거 형식");
-                WriteLine("[ 3 ] 열거 형식 변수");
-                WriteLine("[ 4 ] 열거 형식 할당");
-                WriteLine("[ 5 ] Nullable 형식");
-                WriteLine("[ 6 ] 암시적 형식");
-                WriteLine("[ 7 ] CTS");
-                choice = int.Parse(ReadLine());
-                if (choice == 1) { Constant Const = new Constant(); }
-                if (choice == 2) { Enum Enum = new Enum(); }
-                if (choice == 3) { Enum2 Enum2 = new Enum2(); }
-                if (choice == 4) { Enum3 Enum3 = new Enum3(); }
-                if (choice == 5) { Nullable Null = new Nullable(); }
-                if (choice == 6) { UsingVar Var = new UsingVar(); }
-                if (choice == 7) { CTS Cts = new CTS(); }
-                else { WriteLine("목록외의 입력으로 종료됨;"); }
-            }
-            catch
-            {
-                WriteLine("목록외의 입력으로 종료됨");
-            }
+            WriteLine("[ 1 ] 상수 형식");
+            WriteLine("[ 2 ] 열거 형식");
+            WriteLine("[ 3 ] 열거 형식 변수");
+            WriteLine("[ 4 ] 열거 형식 할당");
+            WriteLine("[ 5 ] Nullable 형식");
+            WriteLine("[ 6 ] 암시적 형식");
+            WriteLine("[ 7 ] CTS");
+            string choice = ReadLine();
+            if (choice == "1") { Constant Const = new Constant(); }
+            if (choice == "2") { Enum Enum = new Enum(); }
+            if (choice == "3") { Enum2 Enum2 = new Enum2(); }
+            if (choice == "4") { Enum3 Enum3 = new Enum3(); }
+            if (choice == "5") { Nullable Null = new Nullable(); }
+            if (choice == "6") { UsingVar Var = new UsingVar(); }
+            if (choice == "7") { CTS Cts = new CTS(); }
         }
     }
     class Constant              // 1. 상수 형식
