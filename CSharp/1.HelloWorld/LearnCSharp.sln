@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.DataTypes", "..\2.DataTyp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Const,Enum", "..\3.Const,Enum\3.Const,Enum.csproj", "{C9CA9031-A360-4A2B-AA5A-46A490F98380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1.RectArea", "..\Ex1.RectArea\Ex1.RectArea.csproj", "{C45F441A-2E15-42E3-8DD4-F4ED2E31C4DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex1.RectArea", "..\Ex1.RectArea\Ex1.RectArea.csproj", "{C45F441A-2E15-42E3-8DD4-F4ED2E31C4DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appendix", "..\Appendix\Appendix.csproj", "{157D6A29-66AE-4BC0-9A5A-B32BC7F660FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appendix", "..\Appendix\Appendix.csproj", "{157D6A29-66AE-4BC0-9A5A-B32BC7F660FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Operator", "..\4.Operator\4.Operator.csproj", "{28A8A149-1F16-490B-9272-59BE32F27F5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{157D6A29-66AE-4BC0-9A5A-B32BC7F660FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{157D6A29-66AE-4BC0-9A5A-B32BC7F660FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{157D6A29-66AE-4BC0-9A5A-B32BC7F660FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A8A149-1F16-490B-9272-59BE32F27F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A8A149-1F16-490B-9272-59BE32F27F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A8A149-1F16-490B-9272-59BE32F27F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A8A149-1F16-490B-9272-59BE32F27F5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
