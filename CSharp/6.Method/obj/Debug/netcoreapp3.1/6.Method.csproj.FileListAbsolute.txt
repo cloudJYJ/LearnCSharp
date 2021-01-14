@@ -1,0 +1,13 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\bin\Debug\netcoreapp3.1\6.Method.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\bin\Debug\netcoreapp3.1\6.Method.deps.json
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\bin\Debug\netcoreapp3.1\6.Method.runtimeconfig.json
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\bin\Debug\netcoreapp3.1\6.Method.runtimeconfig.dev.json
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\bin\Debug\netcoreapp3.1\6.Method.dll
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\bin\Debug\netcoreapp3.1\6.Method.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\obj\Debug\netcoreapp3.1\6.Method.AssemblyInfoInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\obj\Debug\netcoreapp3.1\6.Method.AssemblyInfo.cs
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\obj\Debug\netcoreapp3.1\6.Method.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\obj\Debug\netcoreapp3.1\6.Method.dll
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\obj\Debug\netcoreapp3.1\6.Method.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\obj\Debug\netcoreapp3.1\6.Method.genruntimeconfig.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\6.Method\obj\Debug\netcoreapp3.1\6.Method.csprojAssemblyReference.cache
