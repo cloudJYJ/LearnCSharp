@@ -1,0 +1,7 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex6\bin\Debug\Ex6.exe.config
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex6\bin\Debug\Ex6.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex6\bin\Debug\Ex6.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex6\obj\Debug\Ex6.csprojAssemblyReference.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex6\obj\Debug\Ex6.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex6\obj\Debug\Ex6.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex6\obj\Debug\Ex6.pdb

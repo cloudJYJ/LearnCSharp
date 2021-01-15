@@ -1,0 +1,7 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex5.NameCard\bin\Debug\Ex5.NameCard.exe.config
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex5.NameCard\bin\Debug\Ex5.NameCard.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex5.NameCard\bin\Debug\Ex5.NameCard.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex5.NameCard\obj\Debug\Ex5.NameCard.csprojAssemblyReference.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex5.NameCard\obj\Debug\Ex5.NameCard.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex5.NameCard\obj\Debug\Ex5.NameCard.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex5.NameCard\obj\Debug\Ex5.NameCard.pdb
