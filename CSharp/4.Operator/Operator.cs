@@ -20,17 +20,17 @@ namespace _4.Operator
             WriteLine("[10 ] 할당 연산자");
             WriteLine("[11 ] Null 병합 연산자");
             string choice = ReadLine();
-            if(choice == "1") { ArithmaticOperators ArithmaticOperatiors = new ArithmaticOperators(); }
-            if(choice == "2") { IncDecOperator IncDecOperator = new IncDecOperator(); }
-            if(choice == "3") { StringConcatenate StringConcatenate = new StringConcatenate(); }
-            if(choice == "4") { RelationalOperator RelationalOperator = new RelationalOperator(); }
-            if(choice == "5") { LogicalOperator LogicalOperator = new LogicalOperator(); }
-            if(choice == "6") { ConditionalOperator ConditionalOperator = new ConditionalOperator(); }
-            if(choice == "7") { NullConditionalOperator NullConditionalOperator = new NullConditionalOperator(); }
-            if(choice == "8") { ShiftOperator ShiftOperator = new ShiftOperator(); }
-            if(choice == "9") { BitwiseOperator BitwiseOperator = new BitwiseOperator(); }
-            if(choice == "10") { AssignmentOperator AssingmentOperator = new AssignmentOperator(); }
-            if(choice == "11") { NullCoalescing NullCoalescing = new NullCoalescing(); }
+            if(choice == "1") { ArithmaticOperators arithmaticoperators = new ArithmaticOperators(); }
+            if(choice == "2") { IncDecOperator incDecoperator = new IncDecOperator(); }
+            if(choice == "3") { StringConcatenate stringconcatenate = new StringConcatenate(); }
+            if(choice == "4") { RelationalOperator relationaloperator = new RelationalOperator(); }
+            if(choice == "5") { LogicalOperator logicaloperator = new LogicalOperator(); }
+            if(choice == "6") { ConditionalOperator conditionaloperator = new ConditionalOperator(); }
+            if(choice == "7") { NullConditionalOperator nullconditionaloperator = new NullConditionalOperator(); }
+            if(choice == "8") { ShiftOperator shiftoperator = new ShiftOperator(); }
+            if(choice == "9") { BitwiseOperator bitwiseoperator = new BitwiseOperator(); }
+            if(choice == "10") { AssignmentOperator assignmentoperator = new AssignmentOperator(); }
+            if(choice == "11") { NullCoalescing nullcoalescing = new NullCoalescing(); }
         }
     }
 

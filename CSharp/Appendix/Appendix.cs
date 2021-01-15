@@ -15,13 +15,13 @@ namespace Appendix
             WriteLine("[ 6 ] 날짜 및 시간 서식화");
             WriteLine("[ 7 ] 문자열 보간");
             string choice = ReadLine();
-            if (choice == "1") { StringSearch StringSearch = new StringSearch(); }
-            if (choice == "2") { StringModify StringModify = new StringModify(); }
-            if (choice == "3") { StringSlice StringSlice = new StringSlice(); }
-            if (choice == "4") { StringFormatBasic StringFormatBasic = new StringFormatBasic(); }
-            if (choice == "5") { StringFormatNumber StringFormatNumber = new StringFormatNumber(); }
-            if (choice == "6") { StringFormatDataTime StringFormatDataTime = new StringFormatDataTime(); }
-            if (choice == "7") { StringInterpolation StringInterpolation = new StringInterpolation(); }
+            if (choice == "1") { new StringSearch(); }
+            if (choice == "2") { new StringModify(); }
+            if (choice == "3") { new StringSlice(); }
+            if (choice == "4") { new StringFormatBasic(); }
+            if (choice == "5") { new StringFormatNumber(); }
+            if (choice == "6") { new StringFormatDataTime(); }
+            if (choice == "7") { new StringInterpolation(); }
         }
     }
     class StringSearch

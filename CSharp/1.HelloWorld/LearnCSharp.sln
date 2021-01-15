@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3.Mean", "..\Ex3.Mean\Ex3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4.Plus", "..\Ex4.Plus\Ex4.Plus.csproj", "{1190A4D4-FF0C-4FDC-9620-9C1E93BB3483}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Class", "..\7.Class\7.Class.csproj", "{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1190A4D4-FF0C-4FDC-9620-9C1E93BB3483}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1190A4D4-FF0C-4FDC-9620-9C1E93BB3483}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1190A4D4-FF0C-4FDC-9620-9C1E93BB3483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

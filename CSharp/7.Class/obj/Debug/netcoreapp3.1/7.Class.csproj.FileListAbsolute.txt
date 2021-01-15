@@ -1,0 +1,13 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\bin\Debug\netcoreapp3.1\7.Class.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\bin\Debug\netcoreapp3.1\7.Class.deps.json
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\bin\Debug\netcoreapp3.1\7.Class.runtimeconfig.json
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\bin\Debug\netcoreapp3.1\7.Class.runtimeconfig.dev.json
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\bin\Debug\netcoreapp3.1\7.Class.dll
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\bin\Debug\netcoreapp3.1\7.Class.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\obj\Debug\netcoreapp3.1\7.Class.AssemblyInfoInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\obj\Debug\netcoreapp3.1\7.Class.AssemblyInfo.cs
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\obj\Debug\netcoreapp3.1\7.Class.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\obj\Debug\netcoreapp3.1\7.Class.dll
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\obj\Debug\netcoreapp3.1\7.Class.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\obj\Debug\netcoreapp3.1\7.Class.genruntimeconfig.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\7.Class\obj\Debug\netcoreapp3.1\7.Class.csprojAssemblyReference.cache

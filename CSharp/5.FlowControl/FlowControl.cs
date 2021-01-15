@@ -20,7 +20,7 @@ namespace _5.FlowControl
             WriteLine("[11 ] Continue문");
             WriteLine("[12 ] Goto문");
             string choice = ReadLine();
-            if (choice == "1") { IfElse IfElse = new IfElse(); }
+            if (choice == "1") { IfElse ifelse = new IfElse(); }
             if (choice == "2") { IfIf ifif = new IfIf(); }  
             if (choice == "3") { Switch Switch = new Switch(); }
             if (choice == "4") { Switch2 Switch2 = new Switch2(); }
@@ -30,7 +30,7 @@ namespace _5.FlowControl
             if (choice == "8") { ForFor ForFor = new ForFor(); }
             if (choice == "9") { Foreach Foreach = new Foreach(); }
             if (choice == "10") { Infinite Infinite = new Infinite(); }
-            if (choice == "11") { Continue Continuce = new Continue(); }
+            if (choice == "11") { Continue Continue = new Continue(); }
             if (choice == "12") { Goto Goto = new Goto(); }
 
         }

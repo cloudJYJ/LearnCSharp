@@ -15,13 +15,13 @@ namespace _3.Const_Enum
             WriteLine("[ 6 ] 암시적 형식");
             WriteLine("[ 7 ] CTS");
             string choice = ReadLine();
-            if (choice == "1") { Constant Const = new Constant(); }
+            if (choice == "1") { Constant constant = new Constant(); }
             if (choice == "2") { Enum Enum = new Enum(); }
             if (choice == "3") { Enum2 Enum2 = new Enum2(); }
-            if (choice == "4") { Enum3 Enum3 = new Enum3(); }
-            if (choice == "5") { Nullable Null = new Nullable(); }
-            if (choice == "6") { UsingVar Var = new UsingVar(); }
-            if (choice == "7") { CTS Cts = new CTS(); }
+            if (choice == "4") { Enum3 Enum3 =new Enum3(); }
+            if (choice == "5") { Nullable nullable = new Nullable(); }
+            if (choice == "6") { UsingVar usingvar = new UsingVar(); }
+            if (choice == "7") { CTS cts = new CTS(); }
         }
     }
     class Constant              // 1. 상수 형식

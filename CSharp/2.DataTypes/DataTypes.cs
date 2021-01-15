@@ -24,21 +24,21 @@ namespace DataTypes
             WriteLine("[14 ] 부동 소수점 형식과 정수 형식 사이 형식 변환");
             WriteLine("[15 ] 숫자 형식과 문자 형식 사이 형식 변환");
             string choice = ReadLine();
-            if (choice == "1") { IntegralTypes Integer = new IntegralTypes(); }
-            if (choice == "2") { SignedUnsigned Sign = new SignedUnsigned(); }
-            if (choice == "3") { OverFlow Over = new OverFlow(); }
-            if (choice == "4") { FloatingPoint Float = new FloatingPoint(); }
+            if (choice == "1") { IntegralTypes integraltypes = new IntegralTypes(); }
+            if (choice == "2") { SignedUnsigned signednsigned = new SignedUnsigned(); }
+            if (choice == "3") { OverFlow overflow = new OverFlow(); }
+            if (choice == "4") { FloatingPoint floatingpoint = new FloatingPoint(); }
             if (choice == "5") { Decimal Decimal = new Decimal(); }
-            if (choice == "6") { Char Char = new Char(); }
+            if (choice == "6") { Char Char =new Char(); }
             if (choice == "7") { String String = new String(); }
             if (choice == "8") { Bool Bool = new Bool(); }
             if (choice == "9") { Object Object = new Object(); }
-            if (choice == "10") { BoxingUnboxing Box = new BoxingUnboxing(); }
-            if (choice == "11") { IntegralConversion IntConversion = new IntegralConversion(); }
-            if (choice == "12") { FloatConversion FloatConversion = new FloatConversion(); }
-            if (choice == "13") { SignedUnsignedConversion SignConversion = new SignedUnsignedConversion(); }
-            if (choice == "14") { FloatToIntegral FloatToIntegral = new FloatToIntegral(); }
-            if (choice == "15") { StringNumberConversion StringToNumber = new StringNumberConversion(); }
+            if (choice == "10") { BoxingUnboxing boxingunboxing = new BoxingUnboxing(); }
+            if (choice == "11") { IntegralConversion integralconversion = new IntegralConversion(); }
+            if (choice == "12") { FloatConversion floatconversion = new FloatConversion(); }
+            if (choice == "13") { SignedUnsignedConversion signedunsignedconversion = new SignedUnsignedConversion(); }
+            if (choice == "14") { FloatToIntegral floattointegral = new FloatToIntegral(); }
+            if (choice == "15") { StringNumberConversion stringnumberconversion = new StringNumberConversion(); }
         }
     }
 
