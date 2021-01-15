@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Operator", "..\4.Operator
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.FlowControl", "..\5.FlowControl\5.FlowControl.csproj", "{8C3D87D6-591A-4DEB-A2DC-6C21B82233A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Method", "..\6.Method\6.Method.csproj", "{447BFAD2-6CBF-4D5B-9286-690358EBCC46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.Method", "..\6.Method\6.Method.csproj", "{447BFAD2-6CBF-4D5B-9286-690358EBCC46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2.Square", "..\Ex2.Square\Ex2.Square.csproj", "{C5D7322B-118E-4AC0-B8FA-3E7BA4AD6F30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex2.Square", "..\Ex2.Square\Ex2.Square.csproj", "{C5D7322B-118E-4AC0-B8FA-3E7BA4AD6F30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3.Mean", "..\Ex3.Mean\Ex3.Mean.csproj", "{CEBB0419-F9D8-492F-BC81-05DFFD14E452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex3.Mean", "..\Ex3.Mean\Ex3.Mean.csproj", "{CEBB0419-F9D8-492F-BC81-05DFFD14E452}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4.Plus", "..\Ex4.Plus\Ex4.Plus.csproj", "{1190A4D4-FF0C-4FDC-9620-9C1E93BB3483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex4.Plus", "..\Ex4.Plus\Ex4.Plus.csproj", "{1190A4D4-FF0C-4FDC-9620-9C1E93BB3483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Class", "..\7.Class\7.Class.csproj", "{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Class", "..\7.Class\7.Class.csproj", "{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Interface,Abstract", "..\8.Interface,Abstract\8.Interface,Abstract.csproj", "{EF0F64B8-14C9-442F-9AF3-B4F0002A2874}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF0D4879-35C6-4ED5-BF36-FCCD08DA71C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0F64B8-14C9-442F-9AF3-B4F0002A2874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0F64B8-14C9-442F-9AF3-B4F0002A2874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0F64B8-14C9-442F-9AF3-B4F0002A2874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0F64B8-14C9-442F-9AF3-B4F0002A2874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
