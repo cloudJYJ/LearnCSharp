@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9+1.Array,Collection,Indexe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9+2.GenericProgramming", "..\11.GenericProgramming\9+2.GenericProgramming.csproj", "{CAA1FD4F-01D1-4782-A5C3-EC8FBF78DAF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9+3.ExceptionHandling", "..\12.ExceptionHandling\9+3.ExceptionHandling.csproj", "{37DCC5BA-CF14-4222-B68B-B9E5D28F72F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{CAA1FD4F-01D1-4782-A5C3-EC8FBF78DAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAA1FD4F-01D1-4782-A5C3-EC8FBF78DAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAA1FD4F-01D1-4782-A5C3-EC8FBF78DAF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DCC5BA-CF14-4222-B68B-B9E5D28F72F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DCC5BA-CF14-4222-B68B-B9E5D28F72F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DCC5BA-CF14-4222-B68B-B9E5D28F72F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DCC5BA-CF14-4222-B68B-B9E5D28F72F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
