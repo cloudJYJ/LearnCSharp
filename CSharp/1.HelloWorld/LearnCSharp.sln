@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6.AnonymusType", "..\Ex6.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9+1.Array,Collection,Indexer", "..\10.Array,Collection,Indexer\9+1.Array,Collection,Indexer.csproj", "{1F21E13B-A8C1-4C41-9470-51E857753EBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9+2.GenericProgramming", "..\11.GenericProgramming\9+2.GenericProgramming.csproj", "{CAA1FD4F-01D1-4782-A5C3-EC8FBF78DAF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{1F21E13B-A8C1-4C41-9470-51E857753EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F21E13B-A8C1-4C41-9470-51E857753EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F21E13B-A8C1-4C41-9470-51E857753EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA1FD4F-01D1-4782-A5C3-EC8FBF78DAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA1FD4F-01D1-4782-A5C3-EC8FBF78DAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA1FD4F-01D1-4782-A5C3-EC8FBF78DAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA1FD4F-01D1-4782-A5C3-EC8FBF78DAF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
