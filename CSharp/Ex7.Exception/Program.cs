@@ -18,7 +18,7 @@ namespace Ex7.Exception
                     arr[i] = i;
 
                 for (int i = 0; i < 11; i++)
-                    while (arr[i]) ;
+                    Console.WriteLine(arr[i]);
             }
             catch(IndexOutOfRangeException e)
             {

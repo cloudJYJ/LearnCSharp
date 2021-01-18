@@ -1,0 +1,7 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex8.AnonymousMethod\bin\Debug\Ex8.AnonymousMethod.exe.config
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex8.AnonymousMethod\bin\Debug\Ex8.AnonymousMethod.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex8.AnonymousMethod\bin\Debug\Ex8.AnonymousMethod.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex8.AnonymousMethod\obj\Debug\Ex8.AnonymousMethod.csprojAssemblyReference.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex8.AnonymousMethod\obj\Debug\Ex8.AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex8.AnonymousMethod\obj\Debug\Ex8.AnonymousMethod.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex8.AnonymousMethod\obj\Debug\Ex8.AnonymousMethod.pdb
