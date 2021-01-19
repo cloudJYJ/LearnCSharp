@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4380C0E9-8E7E-45DC-B835-84CC7FED2A37}</ProjectGuid>
+    <ProjectGuid>{AE229BAE-51D0-48A6-9E20-F2512E43208E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_15.LINQ</RootNamespace>
-    <AssemblyName>15.LINQ</AssemblyName>
+    <RootNamespace>EX12.LINQ2</RootNamespace>
+    <AssemblyName>EX12.LINQ2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LINQ.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

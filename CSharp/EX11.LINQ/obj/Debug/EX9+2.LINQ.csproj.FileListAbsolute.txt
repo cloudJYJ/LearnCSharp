@@ -1,0 +1,6 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX11.LINQ\bin\Debug\EX11.LINQ.exe.config
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX11.LINQ\bin\Debug\EX11.LINQ.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX11.LINQ\bin\Debug\EX11.LINQ.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX11.LINQ\obj\Debug\EX9+2.LINQ.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX11.LINQ\obj\Debug\EX11.LINQ.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX11.LINQ\obj\Debug\EX11.LINQ.pdb

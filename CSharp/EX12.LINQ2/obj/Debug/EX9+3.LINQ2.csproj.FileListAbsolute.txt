@@ -1,0 +1,7 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX12.LINQ2\bin\Debug\EX12.LINQ2.exe.config
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX12.LINQ2\bin\Debug\EX12.LINQ2.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX12.LINQ2\bin\Debug\EX12.LINQ2.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX12.LINQ2\obj\Debug\EX9+3.LINQ2.csprojAssemblyReference.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX12.LINQ2\obj\Debug\EX9+3.LINQ2.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX12.LINQ2\obj\Debug\EX12.LINQ2.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\EX12.LINQ2\obj\Debug\EX12.LINQ2.pdb
