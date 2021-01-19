@@ -1,0 +1,7 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex10.Lambda\bin\Debug\Ex10.Lambda.exe.config
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex10.Lambda\bin\Debug\Ex10.Lambda.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex10.Lambda\bin\Debug\Ex10.Lambda.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex10.Lambda\obj\Debug\Ex9+1.Lambda.csprojAssemblyReference.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex10.Lambda\obj\Debug\Ex9+1.Lambda.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex10.Lambda\obj\Debug\Ex10.Lambda.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\Ex10.Lambda\obj\Debug\Ex10.Lambda.pdb
