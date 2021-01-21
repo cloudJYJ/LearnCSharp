@@ -65,6 +65,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam", "Exam", "{78871D65-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9+7.Reflection,Attribute", "..\16.Reflection,Attribute\9+7.Reflection,Attribute.csproj", "{FAC21EC8-00DC-43D5-B553-CCA5BD1AC8EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9+8.Dynamic", "..\17.Dynamic\9+8.Dynamic.csproj", "{87C1E2FC-DD48-4CEC-93AE-906D0829EFB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,10 @@ Global
 		{FAC21EC8-00DC-43D5-B553-CCA5BD1AC8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAC21EC8-00DC-43D5-B553-CCA5BD1AC8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAC21EC8-00DC-43D5-B553-CCA5BD1AC8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C1E2FC-DD48-4CEC-93AE-906D0829EFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C1E2FC-DD48-4CEC-93AE-906D0829EFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C1E2FC-DD48-4CEC-93AE-906D0829EFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C1E2FC-DD48-4CEC-93AE-906D0829EFB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,6 +227,7 @@ Global
 		{7A07133C-091E-4D89-95CD-19B43E936AA4} = {78871D65-AEA7-4AB3-AB2A-8D5A8CDC812A}
 		{AE229BAE-51D0-48A6-9E20-F2512E43208E} = {78871D65-AEA7-4AB3-AB2A-8D5A8CDC812A}
 		{FAC21EC8-00DC-43D5-B553-CCA5BD1AC8EA} = {2D2876D7-F0A2-496A-848D-A577821C1E0A}
+		{87C1E2FC-DD48-4CEC-93AE-906D0829EFB7} = {2D2876D7-F0A2-496A-848D-A577821C1E0A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A6BAE49-686F-4DD5-8CE9-09C92E05F39B}

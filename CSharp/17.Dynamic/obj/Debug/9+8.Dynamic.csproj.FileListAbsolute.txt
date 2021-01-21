@@ -1,0 +1,7 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\17.Dynamic\bin\Debug\17.Dynamic.exe.config
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\17.Dynamic\bin\Debug\17.Dynamic.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\17.Dynamic\bin\Debug\17.Dynamic.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\17.Dynamic\obj\Debug\9+8.Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\17.Dynamic\obj\Debug\17.Dynamic.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\17.Dynamic\obj\Debug\17.Dynamic.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\17.Dynamic\obj\Debug\9+8.Dynamic.csprojAssemblyReference.cache
