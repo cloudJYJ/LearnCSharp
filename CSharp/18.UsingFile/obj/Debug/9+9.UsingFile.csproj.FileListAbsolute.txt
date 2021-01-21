@@ -1,0 +1,7 @@
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\18.UsingFile\bin\Debug\18.UsingFile.exe.config
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\18.UsingFile\bin\Debug\18.UsingFile.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\18.UsingFile\bin\Debug\18.UsingFile.pdb
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\18.UsingFile\obj\Debug\9+9.UsingFile.csprojAssemblyReference.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\18.UsingFile\obj\Debug\9+9.UsingFile.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\18.UsingFile\obj\Debug\18.UsingFile.exe
+C:\Users\ENJOYSOFT\Desktop\공부\CSharp\18.UsingFile\obj\Debug\18.UsingFile.pdb
